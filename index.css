@@ -1,0 +1,54 @@
+/* Write your code here. */
+.bg_container {
+  background-color: white;
+}
+.smallBoxCss {
+  color: white;
+  background-color: #fbbf24;
+  height: 50px;
+  width: 50px;
+  padding: 20px;
+
+  font-family: "Bree Serif";
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.MediumBoxCss {
+  color: white;
+  background-color: #38bdf8;
+  height: 90px;
+  width: 90px;
+  padding: 20px;
+
+  font-family: "Bree Serif";
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.LargeBoxCss {
+  color: white;
+  background-color: #ec4899;
+  height: 130px;
+  width: 130px;
+  padding: 20px;
+
+  font-family: "Bree Serif";
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.result-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+.boxheading {
+  text-align: center;
+  font-family: "Roboto";
+}
